@@ -1,7 +1,7 @@
 # Soldering Magnifier
 A soldering magnifier based on the Rpi and PiCam.
 
-I am an electronic engineer and soldering is one of my task when a design a PCB.
+I am an electronic engineer and soldering is one of my tasks when a design a PCB.
 
 This project borned due to the trend of minimize the integrated circuits and other components in order to save cots and space. Seeking information in Google, I came across this blog post: http://operationalsmoke.blogspot.com.es/2014/05/diy-usb-soldering-microscope.html. It gave me the idea to make my own soldering magnifier/microscope
 
